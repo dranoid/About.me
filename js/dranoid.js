@@ -13,4 +13,4 @@ if (dranoid.isAwake == true) {
   dranoid.beAwesome(); //:)
 }
 
-// As I no too like stress. This script shows that I like to catch the right cruise 24/7
+// As I no too like stress. This script shows that I like to catch the right cruise 24/7!
